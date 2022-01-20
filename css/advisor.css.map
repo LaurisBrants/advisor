@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,CAAA;EAIb,MAAM,EAAC,IAAI;CACd;;AALD,AACI,iBADa,CACb,KAAK,EADT,iBAAiB,CACP,MAAM,CAAA;EACR,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "advisor.scss"
+    ],
+    "names": [],
+    "file": "advisor.css"
+}
